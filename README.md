@@ -8,3 +8,5 @@ I'm back in master, this is surely gonna be a conflict.
 
 Another master after branch1-1
 
+special branch
+
